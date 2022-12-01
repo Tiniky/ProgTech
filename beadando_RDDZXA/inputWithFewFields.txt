@@ -1,0 +1,10 @@
+1
+l 2000
+7
+Zusz	mohó
+suu	mohó
+ogike	taktikus
+Tiniky taktikus
+Krumpli	óvatos
+Arki	óvatos
+VanillaCoke	óvatos
